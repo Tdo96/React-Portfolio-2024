@@ -28,7 +28,7 @@ const Navbar = ({isTopOfPage, selectedPage, setSelectedPage}) => {
                 <img
                   alt ="tdlogo"
                   className="z-10"
-                  src="../assets/TDLogo.png"
+                  src="assets/TDLogo.png"
                 />
                 {/* DESKTOP NAV */}
                 {isDesktop ? (
